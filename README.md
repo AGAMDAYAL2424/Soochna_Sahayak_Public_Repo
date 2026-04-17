@@ -1,4 +1,4 @@
-# Soochna_Sahayak_Public_Repo
+# 🚀 Soochna_Sahayak_Public_Repo
 # 🚔 Soochna Sahayak: Smart FIR & Transcription Ecosystem
 
 [![Powered By Bhashini](https://img.shields.io/badge/Powered%20By-Bhashini-blue)](https://bhashini.gov.in/)
